@@ -40,7 +40,7 @@ Calculadora_Marketing_Dimex.html
 O accede a la versión en línea en GitHub Pages:
 
 ```
-https://<tu-usuario>.github.io/<nombre-del-repo>/Calculadora_Marketing_Dimex.html
+https://cesar687.github.io/calculadora-marketing-dimex/Calculadora_Marketing_Dimex.html
 ```
 
 ---
